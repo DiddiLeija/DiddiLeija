@@ -2,11 +2,14 @@ Hi, I'm @DiddiLeija, I love Python 🐍
 and the Python projects. I'm ready to
 collaborate!
 
+Some data about me:
+
 - :telescope: I’m currently working on Python packaging and GUIs.
 - :seedling: I’m currently learning how to improve my Python GUIs.
 - :thinking: I’m looking for help with my [aleat3](http://github.com/diddileija/aleat3) package.
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I love Nintendo, Python and C++.
+- :zap: Fun Fact: I look like a bot, I think like a bot, but I'm human!
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
