@@ -6,7 +6,7 @@ Some data about me:
 
 - :telescope: I’m currently working on Python packaging and GUIs.
 - :seedling: I’m currently learning how to improve my Python GUIs and other projects.
-- :atom: I’m currently writing code with [Atom](http://atom.io).
+- :atom: I’m currently writing code with [Atom](http://atom.io) and [GitHub](http://github.com) :octocat::atom:.
 - :thinking: I’m looking for help with my [aleat3](http://github.com/diddileija/aleat3) package.
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I love Nintendo (specificly, Super Mario!), Python and C++.
