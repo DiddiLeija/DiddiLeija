@@ -2,6 +2,8 @@ Hi, I'm @DiddiLeija, I love Python 🐍
 and the Python projects. I'm ready to
 collaborate!
 
+I'm a [PSF member](http://python.org/users/DiddiLeija) and a Python follower.
+
 Some data about me:
 
 - :telescope: I’m currently working on Python packaging and GUIs.
