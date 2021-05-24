@@ -12,6 +12,7 @@ Some data about me:
 - :thinking: I’m looking for help with my [aleat3](http://github.com/diddileija/aleat3) package.
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I'm in love with [Nintendo](http://nintendo.com) (specificly, Super Mario!), [Python](http://python.org) and [C++](http://isocpp.org).
+- :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
 
 <!---
