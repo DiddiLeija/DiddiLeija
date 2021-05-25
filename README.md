@@ -1,12 +1,12 @@
-Hi, I'm @DiddiLeija, I love Python 🐍
+>Hi, I'm @DiddiLeija, I love Python 🐍
 and the Python projects. I'm ready to
 collaborate!
 
-I'm a [PSF member](http://python.org/users/DiddiLeija) and a Python follower.
+\(I'm a [PSF member](http://python.org/users/DiddiLeija) and a Python follower\).
 
 Some data about me:
 
-- :telescope: I’m currently working on Python packaging projects (on GitHub) and GUIs (locally).
+- :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs \(locally\).
 - :seedling: I’m currently learning how to improve my Python GUIs and other projects.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my [DiddiParser](http://github.com/diddileija/diddiparser) package.
