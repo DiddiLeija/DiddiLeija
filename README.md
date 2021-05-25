@@ -1,6 +1,4 @@
->Hi, I'm @DiddiLeija, I love Python 🐍
-and the Python projects. I'm ready to
-collaborate!
+>Hi, I'm @DiddiLeija, I'm interested on the @pypa / @python projects, and I want to collaborate with them.
 
 \(I'm a [PSF member](http://python.org/users/DiddiLeija) and a Python follower\).
 
