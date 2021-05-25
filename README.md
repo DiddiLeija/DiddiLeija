@@ -1,6 +1,6 @@
 >Hi, I'm @DiddiLeija, I'm interested on the @pypa / @python projects, and I want to collaborate with them.
 
-\(I'm a [PSF member](http://python.org/users/DiddiLeija) and a Python follower\).
+\(I'm a [PSF member](http://python.org/users/DiddiLeija) and a [Python](http://python.org) follower\).
 
 Some data about me:
 
