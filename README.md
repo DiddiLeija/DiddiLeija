@@ -2,7 +2,7 @@
 
 >_Hi, I'm @DiddiLeija, I'm interested on the @pypa / @python projects, and I want to collaborate with them._
 
-Hello, I am Diego, but you can call me Diddi.
+**Hello, I am Diego, but you can call me Diddi.**
 
 I am a code lover who wants to make something for the world :earth_americas:. In the real world, I like to play
 videogames :video_game: and help my local community with desktop applications :man_technologist: :hammer_and_wrench:. But when I get into the digital world,
