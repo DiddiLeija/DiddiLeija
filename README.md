@@ -1,13 +1,22 @@
+# Hello, I am @DiddiLeija
+
 >Hi, I'm @DiddiLeija, I'm interested on the @pypa / @python projects, and I want to collaborate with them.
 
-\(I'm a [PSF member](http://python.org/users/DiddiLeija) and a [Python](http://python.org) follower\).
+Hello, I am a code lover who wants to make something for the world :earth_americas:. As a human, I like to play
+videogames :video_game: and help my local community with desktop applications :man_technologist: :hammer_and_wrench:. I'm a 
+[PSF member](http://python.org/users/DiddiLeija) and a [Python](http://python.org) :snake: follower. I hope that one day I will
+make a significant change for the Python developers...
 
-Some data about me:
+I have a rare mind filled up with ideas to share just with you :smile:!
+
+## About me
+
+GitHub made a list to describe myself. And this is what I am:
 
 - :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs/games \(locally\).
 - :seedling: I’m currently learning how to use [pygame](http://pygame.org) on my projects.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
-- :thinking: I’m looking for help with my [DiddiParser](http://github.com/diddileija/diddiparser) package \([I need ideas for the package!](http://github.com/diddileija/diddiparser/discussions)\).
+- :thinking: I’m looking for help with my packages \(I need ideas\).
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I'm in love with [Nintendo](http://nintendo.com) (specificly, Super Mario!), [Python](http://python.org) and [C++](http://isocpp.org).
 - :man: Pronouns: He/Him.
