@@ -6,7 +6,7 @@ Hello, I am Diego, but you can call me Diddi.
 
 I am a code lover who wants to make something for the world :earth_americas:. In the real world, I like to play
 videogames :video_game: and help my local community with desktop applications :man_technologist: :hammer_and_wrench:. But when I get into the digital world,
-I just hang around, looking for something to collaborate on :thinking:... I'm a 
+I just roam around, looking for something to collaborate on :thinking:... I'm a 
 [PSF member](http://python.org/users/DiddiLeija) and a [Python](http://python.org) :snake: follower. I hope that one day I will
 make a significant change for the Python developers...
 
