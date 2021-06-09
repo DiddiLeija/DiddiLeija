@@ -12,6 +12,9 @@ make a significant change for the Python developers...
 
 I have a rare mind filled up with ideas to share just with you :smile:!
 
+By now, I collaborated with [pypa/pip](https://github.com/pypa/pip/pulls?q=is%3Apr+author%3ADiddiLeija) with trivial changes. My best repository by
+now is named [text_formatter](http://github.com/diddileija/text_formatter). If you like it proposals, please help me with your ideas...
+
 ## About me
 
 GitHub made a list to describe myself. And this is what I am:
@@ -24,16 +27,6 @@ GitHub made a list to describe myself. And this is what I am:
 - :heart: I'm in love with [Nintendo](http://nintendo.com) (specificly, Super Mario!), [Python](http://python.org) and [C++](http://isocpp.org).
 - :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
-
-## My recent jobs
-
-Here, I add a list of what I've been doing recently.
-
-- I collaborated on [pypa/pip](http://github.com/pypa/pip) with trivial changes.
-- I am making my own projects:
-  - [aleat3](http://github.com/diddileija/aleat3): Build aleatory syntaxes for Python.
-  - [DiddiParser](http://github.com/diddileija/diddiparser): Parse an experimental lenguage that I'm developing.
-  - [text_formatter](http://github.com/diddileija/text_formatter): Pretty formatter for Python strings.
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
