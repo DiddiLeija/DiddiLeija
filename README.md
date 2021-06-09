@@ -25,6 +25,16 @@ GitHub made a list to describe myself. And this is what I am:
 - :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
 
+## My recent jobs
+
+Here, I add a list of what I've been doing recently.
+
+- I collaborated on [pypa/pip](http://github.com/pypa/pip) with trivial changes.
+- I am making my own projects:
+  - [aleat3](http://github.com/diddileija/aleat3): Build aleatory syntaxes for Python.
+  - [DiddiParser](http://github.com/diddileija/diddiparser): Parse an experimental lenguage that I'm developing.
+  - [text_formatter](http://github.com/diddileija/text_formatter): Pretty formatter for Python strings.
+
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
