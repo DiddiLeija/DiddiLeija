@@ -12,7 +12,7 @@ make a significant change for the Python developers...
 
 I have a rare mind filled up with ideas to share just with you :smile:!
 
-By now, I collaborated with [pypa/pip](https://github.com/pypa/pip) with trivial changes and issues. 
+By now, I collaborated with **[pypa/pip](https://github.com/pypa/pip)** with trivial changes and issues. 
 My favorite personal repository is named [text_formatter](http://github.com/diddileija/text_formatter). If you like __text_formatter__, 
 please help me with your ideas...
 
