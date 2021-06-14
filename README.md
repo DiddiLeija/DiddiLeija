@@ -18,9 +18,9 @@ please help me with your ideas...
 
 ## About me
 
-GitHub made a list to describe myself. And this is what I am:
+GitHub made a list to describe myself. I extended it and got this description:
 
-- :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs/games \(locally\).
+- :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs/games/web pages \(locally\).
 - :seedling: I’m currently learning how to use [pygame](http://pygame.org) on my projects.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my packages \(I need ideas\).
