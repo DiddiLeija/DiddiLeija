@@ -21,7 +21,7 @@ please [help me with your ideas](http://github.com/diddileija/text_formatter/iss
 GitHub made a list to describe myself. I extended it and got this description:
 
 - :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs/games/web pages \(locally\).
-- :seedling: I’m currently learning how to use [pygame](http://pygame.org) on my projects.
+- :seedling: I’m currently learning how to use [pygame](http://pygame.org) on my local projects.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my packages \(I need ideas\).
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
