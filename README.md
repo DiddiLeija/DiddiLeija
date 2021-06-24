@@ -29,6 +29,10 @@ GitHub made a list to describe myself. I extended it and got this description:
 - :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
 
+## My website
+
+Now I have a personal website on [github.io](http://github.io). View it **[here](http://DiddiLeija.github.io)**.
+
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
