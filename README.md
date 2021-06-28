@@ -16,7 +16,7 @@ I have a rare mind filled up with ideas to share just with you :smile:!
 
 By now, I collaborated with **[pypa/pip](https://github.com/pypa/pip)** with [trivial changes and issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija). 
 My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
-please [help me with your ideas](http://github.com/diddileija/text_formatter/issues/7)...
+please [help me with your ideas or solutions to my current problems](http://github.com/diddileija/text_formatter/issues)...
 
 ## About me
 
