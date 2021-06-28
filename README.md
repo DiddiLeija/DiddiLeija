@@ -15,7 +15,7 @@ make a significant change for the Python developers...
 I have a rare mind filled up with ideas to share just with you :smile:!
 
 By now, I collaborated with **[pypa/pip](https://github.com/pypa/pip)** with [trivial changes and issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija). 
-My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like __text\_formatter__, 
+My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
 please [help me with your ideas](http://github.com/diddileija/text_formatter/issues/7)...
 
 ## About me
@@ -33,7 +33,7 @@ GitHub made a list to describe myself. I extended it and got this description:
 
 ## My website
 
-Now I have a personal website on [github.io](http://github.io). View it **[here](http://DiddiLeija.github.io)**.
+Now, I have a personal website on [github.io](http://github.io). View it **[here](http://DiddiLeija.github.io)**.
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
