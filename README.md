@@ -27,7 +27,7 @@ GitHub made a list to describe myself. I extended it and got this description:
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my packages \(I need ideas\).
 - :mailbox: How to reach me: [Press here to send me an e-mail](mailto:dr01191115@gmail.com).
-- :heart: I'm in love with [Nintendo](http://nintendo.com) :video_game: \(specifying, [Super Mario](http://mario.nintendo.com)!\), [Python](http://python.org) :snake: and [C++](http://isocpp.org) :computer:.
+- :heart: I'm in love with [Nintendo](http://nintendo.com) :video_game: \(specifying, [Super Mario](http://mario.nintendo.com)!\), Star Wars :movie_camera:, [Python](http://python.org) :snake: and [C++](http://isocpp.org) :computer:.
 - :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
 
