@@ -35,6 +35,14 @@ GitHub made a list to describe myself. I extended it and got this description:
 
 Now, I have a personal website on [github.io](http://github.io). View it **[here](http://DiddiLeija.github.io)**.
 
+## How to help my mission
+
+> Join me, and together, we can rule the galaxy.
+> \- Darth Vader
+
+We can't rule the galaxy, but we can build cool, useful stuff together. Why don't you take a look for my repositories, and maybe find good ways to improve
+them! I will appreciate anything you could do for me and my repos...
+
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
