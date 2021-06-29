@@ -18,9 +18,9 @@ By now, I collaborated with **[pypa/pip](https://github.com/pypa/pip)** with [tr
 My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
 please [help me with your ideas or solutions to my current problems](http://github.com/diddileija/text_formatter/issues)...
 
-## About me
+## A list about me
 
-GitHub made a list to describe myself. I extended it and got this description:
+GitHub made a list to describe myself on this `README` file. I extended it and got this description:
 
 - :telescope: I’m currently working on Python packaging projects \(on GitHub\) and GUIs/games/web pages \(locally\).
 - :seedling: I’m currently learning how to use [pygame](http://pygame.org) on my local projects.
