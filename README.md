@@ -18,7 +18,14 @@ make a significant change for the Python developers...
 
 I have a rare mind filled up with ideas to share just with you :smile:!
 
-By now, I collaborated with **[pypa/pip](https://github.com/pypa/pip)** with [trivial changes and issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija). 
+<!---------------------------
+pypa/pip gave me my first opportunity. Thanks!
+
+https://github.com/pypa/pip/blob/main/AUTHORS.txt#L189
+---------------------------->
+
+The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)** with
+[trivial changes and issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija).
 My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
 please [help me with your ideas or solutions to my current problems](http://github.com/diddileija/text_formatter/issues)...
 
