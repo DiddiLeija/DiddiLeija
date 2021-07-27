@@ -24,7 +24,7 @@ pypa/pip gave me my first opportunity. Thanks!
 https://github.com/pypa/pip/blob/main/AUTHORS.txt#L189
 ---------------------------->
 
-The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)** with
+The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
 [trivial changes and issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija).
 My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
 please [help me with your ideas or solutions to my current problems](http://github.com/diddileija/text_formatter/issues)...
