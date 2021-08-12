@@ -21,7 +21,7 @@ I have a rare mind filled up with ideas to share just with you :smile:!
 <!---------------------------
 pypa/pip gave me my first opportunity. Thanks!
 
-https://github.com/pypa/pip/blob/main/AUTHORS.txt#L189
+https://github.com/pypa/pip/blob/a974526a0a07746fb1fbe07a764eb067e164a0c7/AUTHORS.txt#L190
 ---------------------------->
 
 The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
@@ -51,7 +51,7 @@ Now, I have a personal website on [github.io](http://github.io). View it **[here
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
 
-We don't have the power to rule the galaxy, but we can build cool, useful stuff together. Why don't you take a look for my
+We don't have the power to rule the galaxy (not yet), but we can build cool, useful stuff together. Why don't you take a look for my
 repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my repos...
 
 <!---
