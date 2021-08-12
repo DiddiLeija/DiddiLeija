@@ -51,7 +51,7 @@ Now, I have a personal website on [github.io](http://github.io). View it **[here
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
 
-We don't have the power to rule the galaxy (not yet), but we can build cool, useful stuff together. Why don't you take a look for my
+We don't have the power to rule the galaxy _(not yet)_, but we can build cool, useful stuff together. Why don't you take a look for my
 repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my repos...
 
 <!---
