@@ -1,6 +1,6 @@
 # Hello, I am @DiddiLeija
 
->**_Hi, I'm @DiddiLeija, I'm interested on the @pypa / @python projects, and I want to collaborate with them._**
+>**_Hi, I'm @DiddiLeija, I'm interested on the @python projects, and I want to collaborate with them. Also a @pypa member._**
 
 ****
 
