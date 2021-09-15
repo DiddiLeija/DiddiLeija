@@ -44,7 +44,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 
 ## My `github.io` website
 
-Now, I have a personal website on [github.io](http://github.io). **View it [here](http://DiddiLeija.github.io)**. I'll be posting some articles there, so I recommend you to
+Now, I have a personal website on [github.io](http://github.io). View it _**[here](http://DiddiLeija.github.io)**_. I'll be posting some articles there, so I recommend you to
 stay alert!
 
 ## How to help my mission
