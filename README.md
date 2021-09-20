@@ -31,12 +31,12 @@ please [help me with your ideas or solutions to my current problems](http://gith
 
 ## A list about me
 
-GitHub made a list to describe myself on this `README` file. I extended it and got this description:
+GitHub made a list to describe myself on this `README` file. I extended it and got this funny description:
 
-- :telescope: I’m currently working on Python packaging projects, GUIs, games and some websites.
+- :telescope: I’m currently working on Python packaging projects, GUIs, games and websites.
 - :seedling: I’m currently learning to improve my C++ code.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
-- :thinking: I’m looking for help with my packages \(I need ideas to make them grow\).
+- :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I love [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\), [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) :movie_camera:, [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :musical_note:,  [Python](http://python.org) :snake: and [C++](http://isocpp.org) :computer:.
 - :man: Pronouns: He/Him.
@@ -53,7 +53,7 @@ stay alert!
 > \- Darth Vader
 
 Well... we don't have the power to rule the galaxy _(not yet)_, but we can build cool, useful stuff together. Why don't you take a look to my
-repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my repos...
+repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my projects...
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
