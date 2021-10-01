@@ -1,4 +1,4 @@
-# Hello, I am @DiddiLeija
+# Hello, I am @DiddiLeija :wave:
 
 >**_Hi, I'm @DiddiLeija, I'm interested on the @python projects, and I want to collaborate with them. Also a @pypa member._**
 
@@ -29,7 +29,7 @@ The most important collaboration (for me) is with **[pypa/pip](https://github.co
 My favorite personal repository is named **[text\_formatter](http://github.com/diddileija/text_formatter)**. If you like the __text\_formatter__ proposals, 
 please [help me with your ideas or solutions to my current problems](http://github.com/diddileija/text_formatter/issues)...
 
-## A list about me
+## A list about me :memo:
 
 GitHub made a list to describe myself on this `README` file. I extended it and got this funny description:
 
@@ -42,12 +42,12 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :man: Pronouns: He/Him.
 - :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
 
-## My `github.io` website
+## My `github.io` website :earth_americas:
 
 Now, I have a personal website on [github.io](http://github.io). View it _**[here](http://DiddiLeija.github.io)**_. I'll be posting some articles there, so I recommend you to
 stay alert!
 
-## How to help my mission
+## How to help my mission :smiley:
 
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
