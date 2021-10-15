@@ -40,7 +40,8 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I love [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\), [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) :movie_camera:, [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :musical_note:,  [Python](http://python.org) :snake: and [C++](http://isocpp.org) :computer:.
 - :man: Pronouns: He/Him.
-- :zap: Fun Fact: I look like a bot, I think like a bot, but I am a real human :man:!
+- :zap: **Fun Fact:** I look like a bot, I think like a bot, but I am a real human :man:!
+- :zap: **Fun Fact:** I am a creator at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.org)
 
 ## My `github.io` website :earth_americas:
 
