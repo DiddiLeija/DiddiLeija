@@ -8,6 +8,8 @@
 print("Hello, I am DiddiLeija.")
 ```
 
+[![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija)](https://github.com/anuraghazra/github-readme-stats)
+
 **Hello, I am Diego, but you can always call me Diddi.**
 
 I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to play
