@@ -8,7 +8,7 @@
 print("Hello, I am DiddiLeija.")
 ```
 
-[![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija)](https://github.com/anuraghazra/github-readme-stats)
+[![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 **Hello, I am Diego, but you can always call me Diddi.**
 
