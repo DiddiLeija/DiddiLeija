@@ -15,8 +15,8 @@ print("Hello, I am DiddiLeija.")
 **Hello, I am Diego, but you can always call me Diddi...**
 
 I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to eat wonderful food :pizza:
-:cut_of_meat: :taco: and play videogames :video_game: and chess :chess_pawn:.
-But when I get into the digital world, I just roam around, looking for something to collaborate on :thinking:... I'm a 
+:cut_of_meat: :taco: and also play videogames :video_game: and chess :chess_pawn:.
+But when I get into the digital world, I just roam around, looking for something (or someone) to collaborate with :thinking:... I'm a 
 [PSF member](http://python.org/users/DiddiLeija), a PyPA member and a [Python](http://python.org) :snake: lover. I hope that one day I will
 make a significant change for the Python developers...
 
@@ -41,7 +41,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
-- :heart: I love [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\), [Star Wars](https://starwars.com) :movie_camera:, [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :musical_note: and [Python](http://python.org) :snake:.
+- :heart: I love [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\), [Star Wars](https://starwars.com) :movie_camera:, [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar: and [Python](http://python.org) :snake:.
 - :man: Pronouns: He/Him.
 - :zap: **Fun Fact:** I look like a bot, I think like a bot, but I am a real human :man:!
 - :zap: **Fun Fact:** I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
