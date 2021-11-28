@@ -25,7 +25,7 @@ I have a rare mind filled up with ideas to share just with you :smile:!
 <!---------------------------
 The PyPA gave me my first opportunity. Thanks!
 
-https://github.com/pypa/pip/blob/a974526a0a07746fb1fbe07a764eb067e164a0c7/AUTHORS.txt#L190
+https://github.com/pypa/pip/blob/9cf35b25e25a47b41480d5b2dc82b8ebd1eeb6a0/AUTHORS.txt#L193
 ---------------------------->
 
 The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
