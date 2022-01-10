@@ -6,6 +6,12 @@
 
 [![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija&theme=merko&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![DiddiLeija's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiddiLeija&theme=merko&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
+Ah, if this changes in the future, I became an A++ in the GitHub stats.
+
+Date: 01/10/2022
+--->
+
 ****
 
 ```python
@@ -15,18 +21,24 @@ print("Hello, I am DiddiLeija.")
 **Hello, I am Diego, but you can always call me Diddi...**
 
 I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to eat wonderful food :pizza:
-:cut_of_meat: :taco: and also play videogames :video_game: and chess :chess_pawn:.
+:cut_of_meat: :taco: and also play videogames :video_game: (I personally _love_ retro games :tv:) and chess :chess_pawn:.
 But when I get into the digital world, I just roam around, looking for something (or someone) to collaborate with :thinking:... I'm a 
-[PSF member](http://python.org/users/DiddiLeija), a PyPA member and a [Python](http://python.org) :snake: lover. I hope that one day I will
+[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org) lover :snake:. I hope that one day I will
 make a significant change for the Python developers...
 
 I have a rare mind filled up with ideas to share just with you :smile:!
 
-<!---------------------------
-The PyPA gave me my first opportunity. Thanks!
+<!---
+Is this an easter egg? Yes, it is!
 
+These are some "thank you, folks" messages.
+
+The PyPA gave me my first developer opportunity in Pip. Thanks!
 https://github.com/pypa/pip/blob/9cf35b25e25a47b41480d5b2dc82b8ebd1eeb6a0/AUTHORS.txt#L193
----------------------------->
+
+Thea Flowers, and the Nox team, also helped me a lot!
+https://github.com/theacodes/nox/graphs/contributors
+--->
 
 The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
 [trivial changes and giving help with some issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija). Since that, I've been
@@ -34,7 +46,7 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 ## A list about me :memo:
 
-GitHub made a list to describe myself on this `README` file. I extended it and got this funny description:
+GitHub made a list to describe myself on this `README` file. I extended it and got this (somehow funny) description:
 
 - :telescope: I’m currently working on Python packaging projects, GUIs, games and websites.
 - :seedling: I’m currently learning to program with Kotlin.
@@ -56,7 +68,7 @@ stay alert!
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
 
-Well... we don't have the power to rule the galaxy _(not yet)_, but we can build cool, useful stuff together. Why don't you take a look to my
+Well... we don't have the power to rule the galaxy _(not yet :stuck_out_tongue_winking_eye:)_, but we can build cool, useful stuff together. Why don't you take a look to my
 repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my projects...
 
 <!---
