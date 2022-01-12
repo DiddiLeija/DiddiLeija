@@ -49,7 +49,7 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 GitHub made a list to describe myself on this `README` file. I extended it and got this (somehow funny) description:
 
 - :telescope: I’m currently working on Python packaging projects, GUIs, games and websites.
-- :seedling: I’m currently learning to program with Kotlin.
+- :seedling: I’m currently learning to make Android apps with Kotlin.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
