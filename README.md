@@ -1,8 +1,6 @@
 # Hello, I am @DiddiLeija :wave:
 
->**_Hi, I'm @DiddiLeija, I'm interested on the @python projects, and I want to collaborate with them. Also a @pypa member._**
-
-****
+***
 
 [![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija&theme=merko&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![DiddiLeija's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiddiLeija&theme=merko&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +10,7 @@ Ah, if this changes in the future, I became an A++ in the GitHub stats.
 Date: 01/10/2022
 --->
 
-****
+***
 
 ```python
 print("Hello, I am DiddiLeija.")
