@@ -34,7 +34,7 @@ These are some "thank you, folks" messages.
 The PyPA gave me my first developer opportunity in Pip. Thanks!
 https://github.com/pypa/pip/blob/9cf35b25e25a47b41480d5b2dc82b8ebd1eeb6a0/AUTHORS.txt#L193
 
-Thea Flowers, and the Nox team, also helped me a lot!
+Thea Flowers, and the Nox team, also helped me a lot to grow!
 https://github.com/theacodes/nox/graphs/contributors
 --->
 
@@ -53,6 +53,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: I love [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\), [Star Wars](https://starwars.com) :movie_camera:, [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar: and [Python](http://python.org) :snake:.
 - :man: Pronouns: He/Him.
+- :fork_and_knife: Favorite foods ('cause I can't say just one :sweat_smile:): Calzone, pizza, tacos, steak, moussaka, etc. :yum:
 - :zap: **Fun Fact:** I look like a bot, I think like a bot, but I am a real human :man:!
 - :zap: **Fun Fact:** I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
 
