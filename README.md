@@ -70,6 +70,11 @@ stay alert!
 Well... we don't have the power to rule the galaxy _(not yet :stuck_out_tongue_winking_eye:)_, but we can build cool, useful stuff together. Why don't you take a look to my
 repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my projects...
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
+Also, if you want to support me, you can leave me a tip on [Ko-fi](https://ko-fi.com).
+I would appreciate anything you can do to support my open source work!
+
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
