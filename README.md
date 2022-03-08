@@ -1,5 +1,7 @@
 # Hello, I am @DiddiLeija :wave:
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
 ***
 
 [![DiddiLeija's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiddiLeija&theme=merko&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![DiddiLeija's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiddiLeija&theme=merko&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
