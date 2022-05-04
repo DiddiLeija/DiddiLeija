@@ -50,7 +50,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 
 - :telescope: I’m currently working on Python packaging projects, GUIs, games and websites.
 - :seedling: I’m currently learning to make Android apps with Kotlin.
-- :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat:.
+- :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat: [^1].
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: Things I love:
@@ -59,13 +59,13 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
   - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
   - [Python](http://python.org) :snake:.
 - :man: Pronouns: He/Him.
-- :fork_and_knife: Favorite foods [^1]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
+- :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
 - :zap: **Fun Fact:** I look like a bot, I think like a bot, but I am a real human :man:!
 - :zap: **Fun Fact:** I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
 
 ## My `github.io` website :earth_americas:
 
-Now, I have a personal website made with GitHub Pages. View it **[here](http://DiddiLeija.github.io)** [^2]. I'll be posting some stuff there, so I recommend you to
+Now, I have a personal website made with GitHub Pages. View it **[here](http://DiddiLeija.github.io)** [^3]. I'll be posting some stuff there, so I recommend you to
 stay alert!
 
 ## How to help my mission :smiley:
@@ -78,13 +78,14 @@ repositories, and maybe find good ways to improve them? I will appreciate anythi
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
-Also, if you want to support me, you can leave me a tip on Ko-fi (just click the button above :point_up:). I would appreciate anything you can do to support
-my open source work! No one paid me to be a developer (and no one does now), so your support will be my motivation to keep doing what I love!
+Also, if you want to support me, you can leave me a tip on Ko-fi (just click the lil' red button above :point_up:). I would appreciate anything you can do to
+support my open source work! No one paid me to be a developer (and no one does now), so your support will be my motivation to keep doing what I love!
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[^1]: 'cause I can't say just one "favorite food" :sweat_smile:
-[^2]: You'll might ask why is my website hosted at `github.io`, when I could use GitHub Pages on a personal website. Well... I need money to have an independent website :money_with_wings:
+[^1]: Ah, btw, you can now see my GitHub Skyline at https://skyline.github.com/DiddiLeija!
+[^2]: 'cause I can't say just one "favorite food", right? :sweat_smile:
+[^3]: You'll might ask why is my website hosted at `github.io`, when I could use GitHub Pages on a personal website (`DiddiLeija.com` or sth like that). Well... I need money to have an independent website, as far as I understand :money_with_wings:
