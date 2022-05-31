@@ -1,4 +1,4 @@
-# Hello, I am @DiddiLeija :wave:
+# Hiya, I'm @DiddiLeija :wave:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
@@ -53,19 +53,21 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: Things I love:
-  - [Nintendo](http://nintendo.com) :video_game: \(specificly, [Super Mario](http://mario.nintendo.com) :mushroom:\)
-  - [Star Wars](https://starwars.com) :movie_camera:
+  - [Nintendo](http://nintendo.com)'s videogames :video_game: \(specificly, the [Super Mario](http://mario.nintendo.com) saga :mushroom: :turtle: :star:\)
+  - The [Star Wars](https://starwars.com) saga :movie_camera:
   - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
-  - [Python](http://python.org) :snake:.
+  - And of course, [Python](http://python.org) :snake:.
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
-- :zap: **Fun Fact:** I look like a bot, I think like a bot, but I am a real human :man:!
-- :zap: **Fun Fact:** I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
+- :zap: **Some fun facts and "unnecessary" stuff:**
+  - :man: I am a real human, don't worry!
+  - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
+  - :smiley: I'm not so interested in a new job... but maybe in the future!
 
 ## My `github.io` website :earth_americas:
 
-Now, I have a personal website made with GitHub Pages. View it **[here](http://DiddiLeija.github.io)** [^3]. I'll be posting some stuff there, so I recommend you to
-stay alert!
+Yup, I have a personal website made with GitHub Pages. View it **[here](http://DiddiLeija.github.io)** [^3]. I like posting stuff and updates there,
+so I recommend you to stay alert! Maybe it's not a five-star site, but I hope it's somehow useful :)
 
 ## How to help my mission :smiley:
 
