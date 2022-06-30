@@ -59,7 +59,8 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
   - And of course, [Python](http://python.org) :snake:.
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
-- :zap: **Some fun facts and "unnecessary" stuff:**
+- :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
+- :zap: Finally, **some fun facts and "unnecessary" stuff:**
   - :man: I am a real human, don't worry!
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
   - :smiley: I'm not so interested in a new job... but maybe in the future!
