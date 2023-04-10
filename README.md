@@ -17,7 +17,7 @@
 print("Hello, I am DiddiLeija.")
 ```
 
-**Hello, I am Diego, but you can always call me Diddi...**
+**Hello, I am Diego, aka Diddi...**
 
 I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to eat wonderful food :pizza:
 :cut_of_meat: :taco: and also play videogames :video_game: (I personally _love_ retro games :tv:) and chess :chess_pawn:.
@@ -48,21 +48,24 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 GitHub made a list to describe myself on this `README` file. I extended it and got this (somehow funny) description:
 
-- :telescope: I’m currently working on Python packaging projects, GUIs, games and websites.
-- :seedling: I’m currently learning to make Android apps with Kotlin.
+- :telescope: I’m currently working on Python packages and games.
+- :seedling: I’m currently learning more about C++.
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat: [^1].
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
-- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
-- :heart: Things I love:
+- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [join me on Discord](https://diddileija.github.io/find_me#discord).
+<!-- Removed the following lines -- I'm looking for a better approach to say this! -->
+<!--
+- :heart: A few things I love:
   - [Nintendo](http://nintendo.com) stuff :video_game: \(specificly, the [Super Mario](http://mario.nintendo.com) saga :mushroom: :turtle: :star:\)
   - The [Star Wars](https://starwars.com) saga :movie_camera:
   - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
   - And of course, [Python](http://python.org) :snake:!
+-->
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
 - :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
 - :zap: Finally, **some fun facts and "unnecessary" stuff:**
-  - :man: I am a real human, don't worry!
+  - :man: I am a real human, so don't worry!
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
 
 ## My `github.io` website :earth_americas:
@@ -70,7 +73,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 Yup, I have a personal website made with GitHub Pages. It can be found as **[diddileija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
 so I recommend you to stay alert! It's not a five-star site, but I hope it's somehow useful :)
 
-## How to help my mission :smiley:
+## How to support me :smiley:
 
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
