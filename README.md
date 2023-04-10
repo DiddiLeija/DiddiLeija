@@ -22,7 +22,7 @@ print("Hello, I am DiddiLeija.")
 I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to eat wonderful food :pizza:
 :cut_of_meat: :taco: and also play videogames :video_game: (I personally _love_ retro games :tv:) and chess :chess_pawn:.
 But when I get into the digital world, I just roam around, looking for something (or someone) to collaborate with :thinking:... I'm a 
-[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org) lover :snake:. I hope that one day I will
+[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:. I hope that one day I will
 make a significant change for the Python developers...
 
 I have a rare mind filled up with ideas to share just with you :smile:!
@@ -37,11 +37,12 @@ https://github.com/pypa/pip/blob/9cf35b25e25a47b41480d5b2dc82b8ebd1eeb6a0/AUTHOR
 
 Thea Flowers, and the Nox team, also helped me a lot to grow!
 https://github.com/theacodes/nox/graphs/contributors
---->
 
 The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
 [trivial changes and giving help with some issues](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija). Since that, I've been
 working on other projects, on trivial issues and proposals. Also, I've been working on my own projects.
+
+--->
 
 ## A list about me :memo:
 
@@ -53,22 +54,21 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com).
 - :heart: Things I love:
-  - [Nintendo](http://nintendo.com)'s videogames :video_game: \(specificly, the [Super Mario](http://mario.nintendo.com) saga :mushroom: :turtle: :star:\)
+  - [Nintendo](http://nintendo.com) stuff :video_game: \(specificly, the [Super Mario](http://mario.nintendo.com) saga :mushroom: :turtle: :star:\)
   - The [Star Wars](https://starwars.com) saga :movie_camera:
   - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
-  - And of course, [Python](http://python.org) :snake:.
+  - And of course, [Python](http://python.org) :snake:!
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
 - :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
 - :zap: Finally, **some fun facts and "unnecessary" stuff:**
   - :man: I am a real human, don't worry!
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
-  - :smiley: I'm not so interested in a new job... but maybe in the future!
 
 ## My `github.io` website :earth_americas:
 
-Yup, I have a personal website made with GitHub Pages. View it **[here](http://DiddiLeija.github.io)** [^3]. I like posting stuff and updates there,
-so I recommend you to stay alert! Maybe it's not a five-star site, but I hope it's somehow useful :)
+Yup, I have a personal website made with GitHub Pages. It can be found as **[diddileija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
+so I recommend you to stay alert! It's not a five-star site, but I hope it's somehow useful :)
 
 ## How to help my mission :smiley:
 
