@@ -53,6 +53,13 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat: [^1].
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [join me on Discord](https://diddileija.github.io/find_me#discord).
+- :man: Pronouns: He/Him.
+- :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
+- :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
+- :zap: Finally, **some fun facts and "unnecessary" stuff:**
+  - :man: I am a real human, so don't worry!
+  - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
+
 <!-- Removed the following lines -- I'm looking for a better approach to say this! -->
 <!--
 - :heart: A few things I love:
@@ -61,12 +68,6 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
   - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
   - And of course, [Python](http://python.org) :snake:!
 -->
-- :man: Pronouns: He/Him.
-- :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
-- :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
-- :zap: Finally, **some fun facts and "unnecessary" stuff:**
-  - :man: I am a real human, so don't worry!
-  - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
 
 ## My `github.io` website :earth_americas:
 
