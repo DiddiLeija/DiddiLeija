@@ -11,21 +11,18 @@
 ***
 
 --->
-<!--- Ah, if this changes in the future, I became an A++ in the GitHub stats. (Date: 01/10/2022) --->
+<!--- Ah, if this changes in the future, I once became an A++ in the GitHub stats. (Date: 01/10/2022) --->
 
 ```python
 print("Hello, I am DiddiLeija.")
 ```
 
-**Hello, I am Diego, aka Diddi...**
+**Hello, I am Diego, aka DiddiLeija...**
 
-I am a code lover who wants to make something for the community :earth_americas:. In the real world, I like to eat wonderful food :pizza:
-:cut_of_meat: :taco: and also play videogames :video_game: (I personally _love_ retro games :tv:) and chess :chess_pawn:.
-But when I get into the digital world, I just roam around, looking for something (or someone) to collaborate with :thinking:... I'm a 
-[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:. I hope that one day I will
-make a significant change for the Python developers...
-
-I have a rare mind filled up with ideas to share just with you :smile:!
+I am a programming trainee who wants to make something for the community :earth_americas:. Out of the internet, I like to eat wonderful food :pizza:
+:cut_of_meat: :taco:, play videogames :video_game: and chess :chess_pawn:.
+But when I get into the digital world, I just roam around, looking for something new to do or improve :thinking:... I'm a 
+[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:.
 
 <!---
 Is this an easter egg? Yes, it is!
@@ -48,16 +45,16 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 GitHub made a list to describe myself on this `README` file. I extended it and got this (somehow funny) description:
 
-- :telescope: I’m currently working on Python packages and games.
-- :seedling: I’m currently learning more about C++.
-- :octocat: I’m currently writing code with [Atom](http://atom.io) :atom: and [GitHub](http://github.com) :octocat: [^1].
-- :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow\).
-- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [join me on Discord](https://diddileija.github.io/find_me#discord).
+- :telescope: I’m currently working on Python projects (mostly games).
+- :seedling: I’m currently learning what [Rust](https://rust-lang.org) is.
+- :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
+- :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow and accessible to everyone\).
+- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [find me on Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
-- :man_technologist: **Am I open for a new job?** Nope. But maybe in the future!
-- :zap: Finally, **some fun facts and "unnecessary" stuff:**
-  - :man: I am a real human, so don't worry!
+- :man_technologist: **Am I open for a job?** Not yet. But maybe in the future!
+- :zap: Finally, **some fun facts:**
+  - :man: I am a real human, seriously!
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
 
 <!-- Removed the following lines -- I'm looking for a better approach to say this! -->
@@ -71,7 +68,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 
 ## My `github.io` website :earth_americas:
 
-Yup, I have a personal website made with GitHub Pages. It can be found as **[diddileija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
+Yup, I have a personal website (via GitHub Pages). It can be found as **[DiddiLeija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
 so I recommend you to stay alert! It's not a five-star site, but I hope it's somehow useful :)
 
 ## How to support me :smiley:
@@ -85,7 +82,7 @@ repositories, and maybe find good ways to improve them? I will appreciate anythi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
 Also, if you want to support me, you can leave me a tip on Ko-fi (just click the lil' red button above :point_up:). I would appreciate anything you can do to
-support my open source work! No one paid me to be a developer (and no one does now), so your support will be my motivation to keep doing what I love!
+support my open source work! No one paid me to become a developer (and no one does now), so your support will be my motivation to keep doing what I love!
 
 <!---
 DiddiLeija/DiddiLeija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
