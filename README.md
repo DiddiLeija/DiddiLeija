@@ -19,9 +19,9 @@ print("Hello, I am DiddiLeija.")
 
 **Hello, I am Diego, aka DiddiLeija...**
 
-I am a programming trainee who wants to make something for the community :earth_americas:. Out of the internet, I like to eat wonderful food :pizza:
+I am a programming apprentice who wants to make something for the community :earth_americas:. Out of the internet, I like to eat wonderful food :pizza:
 :cut_of_meat: :taco:, play videogames :video_game: and chess :chess_pawn:.
-But when I get into the digital world, I just roam around, looking for something new to do or improve :thinking:... I'm a 
+When I get into the digital world, I just roam around, looking for something new to do or improve :thinking:... I'm a 
 [PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:.
 
 <!---
@@ -32,7 +32,7 @@ These are some "thank you, folks" messages.
 The PyPA gave me my first developer opportunity in Pip. Thanks!
 https://github.com/pypa/pip/blob/9cf35b25e25a47b41480d5b2dc82b8ebd1eeb6a0/AUTHORS.txt#L193
 
-Thea Flowers, and the Nox team, also helped me a lot to grow!
+Thea Flowers and the Winterbloom folks supported me a lot!
 https://github.com/theacodes/nox/graphs/contributors
 
 The most important collaboration (for me) is with **[pypa/pip](https://github.com/pypa/pip)**, where I've been doing
@@ -43,12 +43,12 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 ## A list about me :memo:
 
-GitHub made a list to describe myself on this `README` file. I extended it and got this (somehow funny) description:
+This was intended to be a list to describe myself (or at least partially), but ended up being a (somewhat funny) description:
 
-- :telescope: I’m currently working on Python projects (mostly games).
+- :telescope: I’m currently working on Python stuff (mostly games).
 - :seedling: I’m currently learning what [Rust](https://rust-lang.org) is.
 - :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
-- :thinking: I’m looking for help with my GitHub repos \(I need ideas to make them grow and accessible to everyone\).
+- :thinking: I’m looking for help with my GitHub repos \(I need ideas and contribs to make them grow and accessible to everyone\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [find me on Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
@@ -56,6 +56,7 @@ GitHub made a list to describe myself on this `README` file. I extended it and g
 - :zap: Finally, **some fun facts:**
   - :man: I am a real human, seriously!
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
+  - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
 
 <!-- Removed the following lines -- I'm looking for a better approach to say this! -->
 <!--
@@ -91,4 +92,4 @@ You can click the Preview link to take a look at your changes.
 
 [^1]: Ah, btw, you can now see my GitHub Skyline at https://skyline.github.com/DiddiLeija!
 [^2]: 'cause I can't say just one "favorite food", right? :sweat_smile:
-[^3]: You'll might ask why is my website hosted at `github.io`, when I could use GitHub Pages on a personal website (`DiddiLeija.com` or sth like that). Well... I need money to have an independent website, as far as I understand :money_with_wings:
+[^3]: You'll might ask why is my website hosted at `github.io`, when I could use GitHub Pages on a personal website (I like `DiddiLeija.com`, for example :star_struck:). Well... I need money to have an independent website, as far as I understand :money_with_wings:
