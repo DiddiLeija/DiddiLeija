@@ -45,16 +45,16 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 This was intended to be a list to describe myself (or at least partially), but ended up being a (somewhat funny) description:
 
-- :telescope: I’m currently working on Python stuff (mostly games).
-- :seedling: I’m currently learning what [Rust](https://rust-lang.org) is.
+- :telescope: I’m currently working on Python stuff (mostly games and personal stuff).
+- :seedling: I’m currently learning to code in [Rust](https://rust-lang.org) :man_technologist:. I'm also [getting started with AI](http://github.com/DiddiLeija/ai-fundamentals) :robot:
 - :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
 - :thinking: I’m looking for help with my GitHub repos \(I need ideas and contribs to make them grow and accessible to everyone\).
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [find me on Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
-- :man_technologist: **Am I open for a job?** Not yet. But maybe in the future!
+- :man_technologist: **Am I open for a job?** Currently no, but maybe in the future!
 - :zap: Finally, **some fun facts:**
-  - :man: I am a real human, seriously!
+  - :man: I am a real human, seriously! You will find me doing several mistakes :smile:
   - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
   - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
 
