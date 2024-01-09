@@ -54,8 +54,8 @@ This was intended to be a list to describe myself (or at least partially), but e
 - :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
 - :man_technologist: **Am I open for a job?** Currently no, but maybe in the future!
 - :zap: Finally, **some fun facts:**
-  - :man: I am a real human, seriously! You will find me doing several mistakes :smile:
-  - :man_technologist: I am a developer at [GitHub](https://github.com), a curious at [Python Discussions](https://discuss.python.org) and a bounty hunter on [StackOverflow](http://stackoverflow.com)
+  - :man: I am a real human, so will find me doing several mistakes :sweat_smile:
+  - :man_technologist: I like to hang out at a bunch of sites, the most common have been listed [here](https://diddileija.github.io/find_me), in case you want to meet me!
   - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
 
 <!-- Removed the following lines -- I'm looking for a better approach to say this! -->
