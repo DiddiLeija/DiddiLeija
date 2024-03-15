@@ -48,13 +48,13 @@ This was intended to be a list to describe myself (or at least partially), but e
 - :telescope: I’m currently working on Python stuff (mostly games and personal stuff).
 - :seedling: I’m currently learning to code in [Rust](https://rust-lang.org) :man_technologist:. I'm also [getting started with AI](http://github.com/DiddiLeija/ai-fundamentals) :robot:
 - :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
-- :thinking: I’m looking for help with my GitHub repos \(I need ideas and contribs to make them grow and accessible to everyone\).
-- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [find me on Discord](https://diddileija.github.io/discord).
+- :thinking: I’m looking for help with my GitHub repos \(I need ideas and contribs to make them grow or turn them accessible to everyone\).
+- :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [meet me at Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
-- :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steak, moussaka, etc. :yum:
+- :fork_and_knife: Favorite foods [^2]: Calzone, pizza, tacos, steaks, sushi, and much more :yum:
 - :man_technologist: **Am I open for a job?** Currently no, but maybe in the future!
-- :zap: Finally, **some fun facts:**
-  - :man: I am a real human, so will find me doing several mistakes :sweat_smile:
+- :zap: Finally, **some quick facts you may want to know:**
+  - :man: I am a real human, so will find me doing several human mistakes :sweat_smile:
   - :man_technologist: I like to hang out at a bunch of sites, the most common have been listed [here](https://diddileija.github.io/find_me), in case you want to meet me!
   - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
 
