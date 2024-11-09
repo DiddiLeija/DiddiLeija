@@ -20,9 +20,9 @@ print("Hello, I am DiddiLeija.")
 **Hello, I am Diego, aka DiddiLeija...**
 
 I am a programming apprentice who wants to make something for the community :earth_americas:. Out of the internet, I like to eat wonderful food :pizza:
-:cut_of_meat: :taco:, play videogames :video_game: and chess :chess_pawn:.
+:taco:, play videogames :video_game: and chess :chess_pawn:.
 When I get into the digital world, I just roam around, looking for something new to do or improve :thinking:... I'm a 
-[PSF member](http://python.org/users/DiddiLeija), a [PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:.
+[PyPA](https://pypa.io) member and a [Python](http://python.org)ista :snake:.
 
 <!---
 Is this an easter egg? Yes, it is!
@@ -43,34 +43,25 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 ## A list about me :memo:
 
-This was intended to be a list to describe myself (or at least partially), but ended up being a (somewhat funny) description:
+This was intended to be a serious list, but ended up being a (somewhat funny) self description:
 
 - :telescope: I’m currently working on Python stuff (mostly games and personal stuff).
-- :seedling: I’m currently learning to code in [Rust](https://rust-lang.org) :man_technologist:. I'm also [getting started with AI](http://github.com/DiddiLeija/ai-fundamentals) :robot:
+- :seedling: I’m currently learning to code in [Rust](https://rust-lang.org) :man_technologist:. I'm also [getting broadly started with AI](http://github.com/DiddiLeija/ai-fundamentals) :robot:
 - :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
 - :thinking: I’m looking for contributors to help with my GitHub repos, such as my games :hugs:
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [meet me at Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite food<b>s</b> [^2]: Calzone, pizza, tacos, steaks, sushi... etc :yum:
 - :man_technologist: **Am I open for a job?** Currently no, but maybe in the future!
-- :zap: Finally, **some quick facts you may want to know:**
-  - :man: I am a real human, so will find me doing several human mistakes :sweat_smile:
-  - :man_technologist: I like to hang out at a bunch of sites, the most common have been listed [here](https://diddileija.github.io/find_me), in case you want to meet me!
+- :zap: Finally, **some quick facts you may wanna know:**
+  - :man: I am a real human, so you'll find me doing several human mistakes :sweat_smile:
+  - :man_technologist: I like to hang out at a bunch of sites, and I listed them [here](https://diddileija.github.io/find_me) -- in case you want to meet me!
   - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
-
-<!-- Removed the following lines -- I'm looking for a better approach to say this! -->
-<!--
-- :heart: A few things I love:
-  - [Nintendo](http://nintendo.com) stuff :video_game: \(specificly, the [Super Mario](http://mario.nintendo.com) saga :mushroom: :turtle: :star:\)
-  - The [Star Wars](https://starwars.com) saga :movie_camera:
-  - [The Strokes](https://en.wikipedia.org/wiki/The_Strokes) :guitar:
-  - And of course, [Python](http://python.org) :snake:!
--->
 
 ## My `github.io` website :earth_americas:
 
 Yup, I have a personal website (via GitHub Pages). It can be found as **[DiddiLeija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
-so I recommend you to stay alert! It's not a five-star site, but I hope it's somehow useful :)
+so I recommend you to stay alert! It's not a five-star site though, but I hope it's useful :)
 
 ## How to support me :smiley:
 
