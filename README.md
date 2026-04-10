@@ -17,8 +17,6 @@
 print("Hello, I am DiddiLeija.")
 ```
 
-**Hello, I am Diego, aka DiddiLeija...**
-
 I am a programming apprentice who wants to make something for the community :earth_americas:. Out of the internet, I like to eat wonderful food :pizza:
 :taco:, play videogames :video_game: and chess :chess_pawn:.
 When I get into the digital world, I just roam around, looking for something new to do or improve :thinking:... I'm a 
@@ -45,22 +43,19 @@ working on other projects, on trivial issues and proposals. Also, I've been work
 
 This was intended to be a serious list, but ended up being a (somewhat funny) self description:
 
-- :telescope: I’m currently working on Python stuff (mostly games and personal stuff).
-- :seedling: I’m currently learning to code in [Rust](https://rust-lang.org) :man_technologist:. I'm also [getting broadly started with AI](http://github.com/DiddiLeija/ai-fundamentals) :robot:
+- :telescope: I’m currently working on Python stuff and teaching in my local town.
+- :seedling: I’m currently learning to code in more programming languages, and finishing my studies.
 - :octocat: I’m currently writing code with [GitHub](http://github.com) [^1].
 - :thinking: I’m looking for contributors to help with my GitHub repos, such as my games :hugs:
 - :mailbox: How to reach me: [Send me an e-mail](mailto:dr01191115@gmail.com) or [meet me at Discord](https://diddileija.github.io/discord).
 - :man: Pronouns: He/Him.
 - :fork_and_knife: Favorite food<b>s</b> [^2]: Calzone, pizza, tacos, steaks, sushi... etc :yum:
 - :man_technologist: **Am I open for a job?** Currently no, but maybe in the future!
-- :zap: Finally, **some quick facts you may wanna know:**
-  - :man: I am a real human, so you'll find me doing several human mistakes :sweat_smile:
-  - :man_technologist: I like to hang out at a bunch of sites, and I listed them [here](https://diddileija.github.io/find_me) -- in case you want to meet me!
-  - :atom: I'm still sad for [Atom](https://atom.io)'s recent death :pensive:.
+- :man: I am a real human, so you'll find me doing several human mistakes :sweat_smile:
 
 ## My `github.io` website :earth_americas:
 
-Yup, I have a personal website (via GitHub Pages). It can be found as **[DiddiLeija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
+Yup, I have a personal website (via GitHub Pages). It's **[DiddiLeija.github.io](http://diddileija.github.io)** [^3]. I like posting stuff and updates there,
 so I recommend you to stay alert! It's not a five-star site though, but I hope it's useful :)
 
 ## How to support me :smiley:
@@ -68,7 +63,7 @@ so I recommend you to stay alert! It's not a five-star site though, but I hope i
 > Join me, and together, we can rule the galaxy.
 > \- Darth Vader
 
-Well... we don't have the power to rule the galaxy _(not yet :stuck_out_tongue_winking_eye:)_, but we can build cool, useful stuff together. Why don't you take a look to my
+We can build cool, useful stuff together. Why don't you take a look to my
 repositories, and maybe find good ways to improve them? I will appreciate anything you could do for me and my projects...
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
